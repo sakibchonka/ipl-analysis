@@ -1,1 +1,3 @@
 *.html linguist-detectable=false
+*.pyspark linguist-detectable=true
+
